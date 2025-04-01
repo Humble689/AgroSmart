@@ -1,5 +1,7 @@
 -- Smart Agriculture Database System 
 CREATE DATABASE smart_agriculture;
+
+USE smart_agriculture;
 -- Create User table
 CREATE TABLE Users (
     user_id SERIAL PRIMARY KEY,
