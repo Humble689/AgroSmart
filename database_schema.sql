@@ -1,3 +1,4 @@
+-- Active: 1738701282055@@127.0.0.1@3306@study
 -- Smart Agriculture Database System 
 CREATE DATABASE smart_agriculture;
 
